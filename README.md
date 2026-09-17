@@ -6,7 +6,7 @@ mouse movement suitable for 3D games.
 
 ## Download
 
-Open the [latest release](https://github.com/niocrv/RemoteMouseBridge-Releases/releases/latest)
+Open the [v1.1.1 preview release](https://github.com/niocrv/RemoteMouseBridge-Releases/releases/tag/v1.1.1)
 and download **RemoteMouseBridge-Windows-x64.zip**.
 
 Current preview version: **1.1.1**
